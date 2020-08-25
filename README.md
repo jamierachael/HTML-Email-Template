@@ -12,7 +12,7 @@ This project will render if downloaded locally, and viewed in your default brows
 
 
 
-![](assets/Images/EmailTemplate.PNG)
+![](EmailTemplate.PNG)
 
 ### Prerequisites
 
